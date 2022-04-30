@@ -8,7 +8,7 @@ During my thesis term, I realized that the conditions for working in the univers
 
 In November 2021 I bought an Oculus Quest 2 just to play Resident Evil 4 VR. For years, I've been playing hundreds of games on dozens of hardware, but nothing impressed me as much as a VR headset. Unsure of my road ahead, I said to myself "Why don't I make VR experiences for a living?". Obviously, I could not jump directly to VR development without any prior experience on game development. I already knew I had two options, Unreal or Unity. As I was familiar with Java from earlier, Unity that uses C# -which is similar to Java in many ways- looked like a great starting point. In late November, I got accepted to an Academy called ["Oyun ve Uygulama akademisi" ](https://oyunveuygulamaakademisi.com/) which was in a nutshell an academy to teach basics of game or application development, as well as foundational knowledge on entrepreneurship, MVP's, project management, and much more on startups.
 
-#TLDR
+# TLDR
 
 So here I am, with all the math-centric courses I've taken in undergrad/grad study, Google Project management certificate, and fundamental Unity/C# knowledge, I think I can be a great candidate for a JR game developer job position. 
 
