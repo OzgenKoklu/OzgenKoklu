@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm Özgen from Istanbul/Turkey. 
 
-I have a BSc degree in Electrical & Electronics Engineering from Bahcesehir University. 
+I'm Özgen from Istanbul, Turkey.
 
-🌱 I’m looking for a position as a Unity Developer. Hypercasual, casual, mid-core, VR, AR, AAA, edTech. I don't limit myself.
+I hold a BSc degree in Electrical & Electronics Engineering from Bahcesehir University.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/%C3%B6zgen-k-b9652299/)
+🌱 I’m currently seeking a position as a Software Engineer. My background includes experience in game development, and I'm open to opportunities in various fields, including Unity development, web development, and general software engineering.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ozgenkoklu/)
